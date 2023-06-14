@@ -7,6 +7,6 @@ chmod 755 arquivo.sh - <b> Torna arquivo executavel </b>
 
 bash arquivo.sh - <b> Modo Padrão </b>
 
-sh -c arquivo.sh <b> Chama qualquer shell </b>
+sh -c arquivo.sh <b> Chama qualquer shell do endereço apontado no /bin/sh <- Bash|Dash|Csh|Zsh</b>
 
 ./arquivo.sh <b> Modo Encurtado </b>
