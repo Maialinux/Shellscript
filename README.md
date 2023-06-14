@@ -3,7 +3,7 @@
 
 # Forma de executar o arquivo .sh
  
-chmod 755 arquivo.sh - <b> *Torna arquivo executavel
+chmod 755 arquivo.sh - <b> **Torna arquivo executavel
 
 bash arquivo.sh - <b> Padrão
 
