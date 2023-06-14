@@ -1,4 +1,4 @@
-No arquivo control, estao as informacoes do pacote que permanecerao dentro do pacote .deb. 
+# No arquivo control, estao as informacoes do pacote que permanecerao dentro do pacote .deb. 
 
 Criei os scripts preinst e postinst vazios apenas com comentarios relevantes pra voces.
 
