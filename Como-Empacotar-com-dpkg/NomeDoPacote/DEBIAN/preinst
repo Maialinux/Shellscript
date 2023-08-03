@@ -1,6 +1,0 @@
-#!/bin/bash
-
-# Script refere-se ao que você quer que aconteça antes da instalação
-# O mapeamento do pacote é salvo nesse diretório: /var/lib/dpkg/info/ 
-# Após sua instalação.
-
